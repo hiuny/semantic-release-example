@@ -13,7 +13,7 @@
     "prepublishOnly": "npm run build:prod",
     "gc": "commit",
     "semantic-release": "semantic-release",
-    "travis-deploy-once": "npx travis-deploy-once"
+    "travis-deploy-once": "npx travis-deploy-once --pro"
   },
   "repository": {
     "type": "git",
