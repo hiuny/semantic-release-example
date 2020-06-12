@@ -43,3 +43,6 @@ A new release is cut when the `master` branch Travis build successfully complete
 
 ### Full commit message after the CLI exits successfully
 ![alt-text](https://imgur.com/oyHT23e.png)
+
+### test
+- a
