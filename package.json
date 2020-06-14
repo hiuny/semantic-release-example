@@ -3,6 +3,7 @@
   "version": "0.0.0-development",
   "description": "Example implementation of the semantic-release package",
   "main": "build/index.js",
+  "private": true,
   "scripts": {
     "codecov": "npx codecov",
     "commitmsg": "npx commitlint -e $GIT_PARAMS",
