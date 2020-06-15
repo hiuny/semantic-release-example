@@ -46,3 +46,4 @@ A new release is cut when the `master` branch Travis build successfully complete
 
 ### test
 - a
+- b
